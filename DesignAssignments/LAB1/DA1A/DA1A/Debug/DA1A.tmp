@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\CPE301\DA1A\DA1A\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\CPE301\DA1A\DA1A\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\CPE301\DA1A\DA1A\Debug\DA1A.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA1A.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA1A.map</FILE>
+  <FILE>DA1A.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>D:\CPE301\DA1A\DA1A\main.asm</FILE><LINE>13</LINE></start>
+  <borrow><FILE>D:\CPE301\DA1A\DA1A\main.asm</FILE><LINE>48</LINE></borrow>
+  <LP_add><FILE>D:\CPE301\DA1A\DA1A\main.asm</FILE><LINE>28</LINE></LP_add>
+  <LP_r20><FILE>D:\CPE301\DA1A\DA1A\main.asm</FILE><LINE>45</LINE></LP_r20>
+  <DONE><FILE>D:\CPE301\DA1A\DA1A\main.asm</FILE><LINE>61</LINE></DONE>
+ </LABELS>
+</ASSEMBLER_INFO>
