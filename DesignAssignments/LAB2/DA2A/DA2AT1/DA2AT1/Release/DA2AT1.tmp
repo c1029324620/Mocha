@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>D:\CPE301\DA2A\DA2AT1\DA2AT1\Release</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\CPE301\DA2A\DA2AT1\DA2AT1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\CPE301\DA2A\DA2AT1\DA2AT1\Release\DA2AT1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2AT1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2AT1.map</FILE>
+  <FILE>DA2AT1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>D:\CPE301\DA2A\DA2AT1\DA2AT1\main.asm</FILE><LINE>10</LINE></start>
+  <again><FILE>D:\CPE301\DA2A\DA2AT1\DA2AT1\main.asm</FILE><LINE>13</LINE></again>
+  <delay_high><FILE>D:\CPE301\DA2A\DA2AT1\DA2AT1\main.asm</FILE><LINE>23</LINE></delay_high>
+  <high_delay_done><FILE>D:\CPE301\DA2A\DA2AT1\DA2AT1\main.asm</FILE><LINE>16</LINE></high_delay_done>
+  <delay_low><FILE>D:\CPE301\DA2A\DA2AT1\DA2AT1\main.asm</FILE><LINE>41</LINE></delay_low>
+  <low_delay_done><FILE>D:\CPE301\DA2A\DA2AT1\DA2AT1\main.asm</FILE><LINE>19</LINE></low_delay_done>
+  <L0><FILE>D:\CPE301\DA2A\DA2AT1\DA2AT1\main.asm</FILE><LINE>25</LINE></L0>
+  <L1><FILE>D:\CPE301\DA2A\DA2AT1\DA2AT1\main.asm</FILE><LINE>27</LINE></L1>
+  <L2><FILE>D:\CPE301\DA2A\DA2AT1\DA2AT1\main.asm</FILE><LINE>29</LINE></L2>
+  <L3><FILE>D:\CPE301\DA2A\DA2AT1\DA2AT1\main.asm</FILE><LINE>43</LINE></L3>
+  <L4><FILE>D:\CPE301\DA2A\DA2AT1\DA2AT1\main.asm</FILE><LINE>45</LINE></L4>
+  <L5><FILE>D:\CPE301\DA2A\DA2AT1\DA2AT1\main.asm</FILE><LINE>47</LINE></L5>
+  <done><FILE>D:\CPE301\DA2A\DA2AT1\DA2AT1\main.asm</FILE><LINE>58</LINE></done>
+ </LABELS>
+</ASSEMBLER_INFO>
