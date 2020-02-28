@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>D:\CPE 301\DA2B\DA2B\DA2B\Release</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\CPE 301\DA2B\DA2B\DA2B\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328PBdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m328pbdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\CPE 301\DA2B\DA2B\DA2B\Release\DA2B.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2B.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2B.map</FILE>
+  <FILE>DA2B.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>D:\CPE 301\DA2B\DA2B\DA2B\main.asm</FILE><LINE>16</LINE></MAIN>
+  <EX0_ISR><FILE>D:\CPE 301\DA2B\DA2B\DA2B\main.asm</FILE><LINE>35</LINE></EX0_ISR>
+  <HERE><FILE>D:\CPE 301\DA2B\DA2B\DA2B\main.asm</FILE><LINE>32</LINE></HERE>
+  <delay_2sec><FILE>D:\CPE 301\DA2B\DA2B\DA2B\main.asm</FILE><LINE>37</LINE></delay_2sec>
+  <L1><FILE>D:\CPE 301\DA2B\DA2B\DA2B\main.asm</FILE><LINE>41</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
